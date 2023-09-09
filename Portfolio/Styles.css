@@ -1,0 +1,13 @@
+li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    padding: 20px;
+    background-color: #4bed9f;
+  }
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
